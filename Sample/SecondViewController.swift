@@ -12,7 +12,7 @@ class SecondViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Vignesh Raja")
+        print("Vignesh Ram Raja")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
